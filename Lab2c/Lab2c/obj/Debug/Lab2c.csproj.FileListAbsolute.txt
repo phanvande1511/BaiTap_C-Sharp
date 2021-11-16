@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/Btap_C#/Lab2c/Lab2c/obj/Debug/Lab2c.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Btap_C#/Lab2c/Lab2c/obj/Debug/Lab2c.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Btap_C#/Lab2c/Lab2c/bin/Debug/Lab2c.exe
+/Users/tuanle/Desktop/De/Btap_C#/Lab2c/Lab2c/bin/Debug/Lab2c.pdb
+/Users/tuanle/Desktop/De/Btap_C#/Lab2c/Lab2c/obj/Debug/Lab2c.exe
+/Users/tuanle/Desktop/De/Btap_C#/Lab2c/Lab2c/obj/Debug/Lab2c.pdb
