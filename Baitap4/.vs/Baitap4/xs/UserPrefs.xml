@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{94B2FBEF-3F6A-429D-9936-D75A0E907870}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Baitap4/Program.cs">
+    <Files>
+      <File FileName="Baitap4/Program.cs" Line="24" Column="85" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Baitap4" expanded="True">
+            <Node name="Baitap4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Baitap4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
