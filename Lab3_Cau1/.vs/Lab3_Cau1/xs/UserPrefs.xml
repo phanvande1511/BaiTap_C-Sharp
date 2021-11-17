@@ -1,9 +1,6 @@
 ﻿<Properties StartupConfiguration="{7B7ED09A-A2EC-4639-A56C-CF45C9097524}|Default">
-  <MonoDevelop.Ide.ItemProperties.Lab3__Cau1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3_Cau1/Program.cs">
-    <Files>
-      <File FileName="Lab3_Cau1/Program.cs" Line="10" Column="10" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.Lab3__Cau1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">

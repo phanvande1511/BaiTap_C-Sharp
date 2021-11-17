@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{91F2ECD9-4507-4D27-B178-D4D083D07462}|Default">
-  <MonoDevelop.Ide.ItemProperties.BaiTap2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BaiTap2/Program.cs">
+﻿<Properties StartupConfiguration="{1129ABD5-6FB1-4CDB-9F74-347A84B8075B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3_Cau2/Program.cs">
     <Files>
-      <File FileName="BaiTap2/Program.cs" Line="11" Column="49" />
+      <File FileName="Lab3_Cau2/Program.cs" Line="35" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BaiTap2" expanded="True">
-            <Node name="BaiTap2" expanded="True">
+          <Node name="Lab3_Cau2" expanded="True">
+            <Node name="Lab3_Cau2" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lab3__Cau2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

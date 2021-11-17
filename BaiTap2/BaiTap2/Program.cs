@@ -8,6 +8,7 @@ namespace BaiTap2
         {
             Console.Write("Nhap ten cua ban: ");
             string ten = Console.ReadLine();
+            Console.WriteLine("--------------");
             Console.WriteLine("Hello " + ten);
         }
     }
