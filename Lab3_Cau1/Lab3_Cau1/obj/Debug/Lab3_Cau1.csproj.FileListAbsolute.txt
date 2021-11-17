@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/Btap_C#/Lab3_Cau1/Lab3_Cau1/bin/Debug/Lab3_Cau1.exe
+/Users/tuanle/Desktop/De/Btap_C#/Lab3_Cau1/Lab3_Cau1/bin/Debug/Lab3_Cau1.pdb
+/Users/tuanle/Desktop/De/Btap_C#/Lab3_Cau1/Lab3_Cau1/obj/Debug/Lab3_Cau1.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Btap_C#/Lab3_Cau1/Lab3_Cau1/obj/Debug/Lab3_Cau1.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Btap_C#/Lab3_Cau1/Lab3_Cau1/obj/Debug/Lab3_Cau1.exe
+/Users/tuanle/Desktop/De/Btap_C#/Lab3_Cau1/Lab3_Cau1/obj/Debug/Lab3_Cau1.pdb

@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{658649A0-BD07-4552-A922-FDEE0BDB67DE}|Default">
-  <MonoDevelop.Ide.ItemProperties.Lab2c PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2c/Program.cs">
+﻿<Properties StartupConfiguration="{7B7ED09A-A2EC-4639-A56C-CF45C9097524}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab3__Cau1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3_Cau1/Program.cs">
     <Files>
-      <File FileName="Lab2c/Program.cs" Line="30" Column="70" />
+      <File FileName="Lab3_Cau1/Program.cs" Line="10" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Lab2c" expanded="True">
-            <Node name="Lab2c" expanded="True">
+          <Node name="Lab3_Cau1" expanded="True">
+            <Node name="Lab3_Cau1" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
