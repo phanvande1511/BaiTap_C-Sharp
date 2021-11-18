@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C50176BD-09EF-4616-8AA7-A9BD83496F90}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3_Cau7/Program.cs">
+    <Files>
+      <File FileName="Lab3_Cau7/Program.cs" Line="47" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3_Cau7" expanded="True">
+            <Node name="Lab3_Cau7" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab3__Cau7 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
