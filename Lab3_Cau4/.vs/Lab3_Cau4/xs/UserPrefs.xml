@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{E08D4CEE-54B0-4EAF-9D8F-AAF45B4DBE6E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3_Cau3/Program.cs">
+﻿<Properties StartupConfiguration="{87D1EAC5-E1E8-4AF0-9FBD-FD96C7D02F8C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3_Cau4/Program.cs">
     <Files>
-      <File FileName="Lab3_Cau3/Program.cs" Line="18" Column="17" />
+      <File FileName="Lab3_Cau4/Program.cs" Line="21" Column="80" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Lab3_Cau3" expanded="True">
-            <Node name="Lab3_Cau3" expanded="True">
+          <Node name="Lab3_Cau4" expanded="True">
+            <Node name="Lab3_Cau4" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,8 +15,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab3__Cau4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Lab3__Cau3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
