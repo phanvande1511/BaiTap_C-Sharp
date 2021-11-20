@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{BED0C877-9BF2-489D-BDBB-795B776A9CDD}|Default">
-  <MonoDevelop.Ide.ItemProperties.BaiTap9 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BaiTap9 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BaiTap9/Program.cs">
     <Files>
-      <File FileName="BaiTap9/Program.cs" Line="1" Column="1" />
+      <File FileName="BaiTap9/Program.cs" Line="17" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
