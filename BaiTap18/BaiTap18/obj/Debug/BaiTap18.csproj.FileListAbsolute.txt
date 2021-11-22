@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/Btap_C#/BaiTap18/BaiTap18/bin/Debug/BaiTap18.exe
+/Users/tuanle/Desktop/De/Btap_C#/BaiTap18/BaiTap18/bin/Debug/BaiTap18.pdb
+/Users/tuanle/Desktop/De/Btap_C#/BaiTap18/BaiTap18/obj/Debug/BaiTap18.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Btap_C#/BaiTap18/BaiTap18/obj/Debug/BaiTap18.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Btap_C#/BaiTap18/BaiTap18/obj/Debug/BaiTap18.exe
+/Users/tuanle/Desktop/De/Btap_C#/BaiTap18/BaiTap18/obj/Debug/BaiTap18.pdb
