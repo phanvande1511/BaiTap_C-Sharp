@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap2/Vd-BaiTap2/bin/Debug/Vd-BaiTap2.exe
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap2/Vd-BaiTap2/bin/Debug/Vd-BaiTap2.pdb
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap2/Vd-BaiTap2/obj/Debug/Vd-BaiTap2.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap2/Vd-BaiTap2/obj/Debug/Vd-BaiTap2.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap2/Vd-BaiTap2/obj/Debug/Vd-BaiTap2.exe
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap2/Vd-BaiTap2/obj/Debug/Vd-BaiTap2.pdb

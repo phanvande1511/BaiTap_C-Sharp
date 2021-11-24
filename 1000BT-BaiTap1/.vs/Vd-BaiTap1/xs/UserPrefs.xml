@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{AFCCCC1C-E9B8-47D3-845B-8754F87EC5A4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab4_Cau2/Program.cs">
+﻿<Properties StartupConfiguration="{B95E01BC-5F3F-4FD8-BF4D-C3B81CF973B4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Vd-BaiTap1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vd-BaiTap1/Program.cs">
     <Files>
-      <File FileName="Lab4_Cau2/Program.cs" Line="22" Column="38" />
+      <File FileName="Vd-BaiTap1/Program.cs" Line="10" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Lab4_Cau2" expanded="True">
-            <Node name="Lab4_Cau2" expanded="True">
+          <Node name="Vd-BaiTap1" expanded="True">
+            <Node name="Vd-BaiTap1" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +16,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Lab4__Cau2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,12 @@
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap5/Vd-BaiTap5/bin/Debug/Vd-BaiTap5.exe
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap5/Vd-BaiTap5/bin/Debug/Vd-BaiTap5.pdb
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap5/Vd-BaiTap5/obj/Debug/Vd-BaiTap5.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap5/Vd-BaiTap5/obj/Debug/Vd-BaiTap5.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap5/Vd-BaiTap5/obj/Debug/Vd-BaiTap5.exe
+/Users/tuanle/Desktop/De/Vdu/Vd-BaiTap5/Vd-BaiTap5/obj/Debug/Vd-BaiTap5.pdb
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap5/Vd-BaiTap5/bin/Debug/Vd-BaiTap5.exe
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap5/Vd-BaiTap5/bin/Debug/Vd-BaiTap5.pdb
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap5/Vd-BaiTap5/obj/Debug/Vd-BaiTap5.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap5/Vd-BaiTap5/obj/Debug/Vd-BaiTap5.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap5/Vd-BaiTap5/obj/Debug/Vd-BaiTap5.exe
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap5/Vd-BaiTap5/obj/Debug/Vd-BaiTap5.pdb
