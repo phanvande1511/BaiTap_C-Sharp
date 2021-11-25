@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap6/1000BT-BaiTap6/obj/Debug/1000BT-BaiTap6.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap6/1000BT-BaiTap6/obj/Debug/1000BT-BaiTap6.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap6/1000BT-BaiTap6/bin/Debug/1000BT-BaiTap6.exe
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap6/1000BT-BaiTap6/bin/Debug/1000BT-BaiTap6.pdb
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap6/1000BT-BaiTap6/obj/Debug/1000BT-BaiTap6.exe
+/Users/tuanle/Desktop/De/Btap_C#/1000BT-BaiTap6/1000BT-BaiTap6/obj/Debug/1000BT-BaiTap6.pdb
