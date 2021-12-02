@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{C6561C28-4310-4593-AF2B-B2D1D91BD035}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Ham_Bai115/Program.cs">
+﻿<Properties StartupConfiguration="{9BE2B218-3EA6-4AD5-9F91-2FAFDE7FC3B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ham_Bai116/Program.cs">
     <Files>
-      <File FileName="Ham_Bai115/Program.cs" Line="22" Column="12" />
+      <File FileName="Ham_Bai116/Program.cs" Line="12" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Ham_Bai115" expanded="True">
-            <Node name="Ham_Bai115" expanded="True">
+          <Node name="Ham_Bai116" expanded="True">
+            <Node name="Ham_Bai116" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,11 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Ham__Bai115 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ham__Bai116 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
