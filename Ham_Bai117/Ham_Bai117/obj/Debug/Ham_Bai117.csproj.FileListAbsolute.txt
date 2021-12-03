@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/Btap_C#/Ham_Bai117/Ham_Bai117/bin/Debug/Ham_Bai117.exe
+/Users/tuanle/Desktop/De/Btap_C#/Ham_Bai117/Ham_Bai117/bin/Debug/Ham_Bai117.pdb
+/Users/tuanle/Desktop/De/Btap_C#/Ham_Bai117/Ham_Bai117/obj/Debug/Ham_Bai117.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Btap_C#/Ham_Bai117/Ham_Bai117/obj/Debug/Ham_Bai117.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Btap_C#/Ham_Bai117/Ham_Bai117/obj/Debug/Ham_Bai117.exe
+/Users/tuanle/Desktop/De/Btap_C#/Ham_Bai117/Ham_Bai117/obj/Debug/Ham_Bai117.pdb
