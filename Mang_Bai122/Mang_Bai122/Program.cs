@@ -15,7 +15,7 @@ namespace Mang_Bai122
                 Console.Write("Nhap so[{0}]: ", i);
                 number[i] = int.Parse(Console.ReadLine());
             }
-            Console.WriteLine("So lon nhat trong mang la: {0}", Max(number);
+            Console.WriteLine("So lon nhat trong mang la: " + Max(number, size));
         }
 
         static int Max(int[] number, int size)

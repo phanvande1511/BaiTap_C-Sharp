@@ -46,6 +46,8 @@ namespace Lab6_Bai7
                     case 5:
                         Console.WriteLine("Ban chon thoat khoi day");
                         break;
+                    default: Console.WriteLine("Nhap sai roi do");
+                        break;
                 }
             } while (number != 1 && number != 2 && number != 3 && number != 4 && number != 5);
         }
