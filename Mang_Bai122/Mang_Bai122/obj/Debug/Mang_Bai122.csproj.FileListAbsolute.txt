@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/Btap_C#/Mang_Bai122/Mang_Bai122/bin/Debug/Mang_Bai122.exe
+/Users/tuanle/Desktop/De/Btap_C#/Mang_Bai122/Mang_Bai122/bin/Debug/Mang_Bai122.pdb
+/Users/tuanle/Desktop/De/Btap_C#/Mang_Bai122/Mang_Bai122/obj/Debug/Mang_Bai122.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Btap_C#/Mang_Bai122/Mang_Bai122/obj/Debug/Mang_Bai122.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Btap_C#/Mang_Bai122/Mang_Bai122/obj/Debug/Mang_Bai122.exe
+/Users/tuanle/Desktop/De/Btap_C#/Mang_Bai122/Mang_Bai122/obj/Debug/Mang_Bai122.pdb

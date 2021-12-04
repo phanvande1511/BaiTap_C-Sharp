@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/Btap_C#/Lab6_Bai7/Lab6_Bai7/bin/Debug/Lab6_Bai7.exe
+/Users/tuanle/Desktop/De/Btap_C#/Lab6_Bai7/Lab6_Bai7/bin/Debug/Lab6_Bai7.pdb
+/Users/tuanle/Desktop/De/Btap_C#/Lab6_Bai7/Lab6_Bai7/obj/Debug/Lab6_Bai7.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Btap_C#/Lab6_Bai7/Lab6_Bai7/obj/Debug/Lab6_Bai7.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Btap_C#/Lab6_Bai7/Lab6_Bai7/obj/Debug/Lab6_Bai7.exe
+/Users/tuanle/Desktop/De/Btap_C#/Lab6_Bai7/Lab6_Bai7/obj/Debug/Lab6_Bai7.pdb
