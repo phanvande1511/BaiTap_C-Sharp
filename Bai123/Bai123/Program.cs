@@ -1,34 +1,33 @@
 ﻿using System;
 
-namespace Mang_Bai122
+namespace Bai123
 {
     class MainClass
     {
         public static void Main(string[] args)
         {
-            Console.Write("Nhap so luong chu so: ");
+            Console.Write("Nhap vao so luong chu so: ");
             int size = int.Parse(Console.ReadLine());
             int[] number = new int[size];
-
             for (int i = 0; i < size; i++)
             {
                 Console.Write("Nhap so[{0}]: ", i);
                 number[i] = int.Parse(Console.ReadLine());
             }
-            Console.WriteLine("So lon nhat trong mang la: {0}", Max(number, size));
+            Console.WriteLine("So nho nhat o vi tri: {0}", Find(number, size));
         }
 
-        static int Max(int[] number, int size)
+        static int Find(int[] number, int size)
         {
-            int max = number[0];
-            for (int j = 0; j < size; j++)
+            int min = number[0];
+            for (int i = 0; i < size; i++)
             {
-                if (max < number[j])
+                if (min > number[i])
                 {
-                    max = number[j];
+                    min = i - 1;
                 }
             }
-            return max;
+            return min;
         }
-    } 
+    }
 }

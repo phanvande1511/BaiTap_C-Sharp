@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/Btap_C#/Bai123/Bai123/bin/Debug/Bai123.exe
+/Users/tuanle/Desktop/De/Btap_C#/Bai123/Bai123/bin/Debug/Bai123.pdb
+/Users/tuanle/Desktop/De/Btap_C#/Bai123/Bai123/obj/Debug/Bai123.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Btap_C#/Bai123/Bai123/obj/Debug/Bai123.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Btap_C#/Bai123/Bai123/obj/Debug/Bai123.exe
+/Users/tuanle/Desktop/De/Btap_C#/Bai123/Bai123/obj/Debug/Bai123.pdb
