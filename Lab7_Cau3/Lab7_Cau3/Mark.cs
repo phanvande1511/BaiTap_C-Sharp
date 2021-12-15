@@ -3,6 +3,7 @@ namespace Lab7_Cau3
 {
     public class Mark
     {
+        private int ordinalNumber;// so thu tu
         private string subjectTitle;//ten mon hoc
         private float theoreticalScore;//diem ly thuyet
         private float practiceScore;//diem thuc hanh
@@ -12,16 +13,10 @@ namespace Lab7_Cau3
             return (theoreticalScore + practiceScore) / 2;
         }
 
-        //public Mark(string subjectTitle, float theoreticalScore, float practiceScore)
-        //{
-        //    this.subjectTitle = subjectTitle;
-        //    this.theoreticalScore = theoreticalScore;
-        //    this.practiceScore = practiceScore;
-        //}
-
-
-        public void inPut()
+        public void inPut()// nhap thong tin
         {
+            Console.Write("- Ordinal Number: ");
+            ordinalNumber = int.Parse(Console.ReadLine());
             Console.Write("- Subject Title: ");
             subjectTitle = Console.ReadLine();
             Console.Write("- Theoretical Score: ");
@@ -30,12 +25,28 @@ namespace Lab7_Cau3
             practiceScore = float.Parse(Console.ReadLine());
         }
 
-        public void outPut()
+        public void outPut()// xuat thong tin
         {
-            Console.WriteLine("- Subject Title: {0}", subjectTitle);
-            Console.WriteLine("- Theoretical Score: {0}", theoreticalScore);
-            Console.WriteLine("- Practice Score: {0}", practiceScore);
-            Console.WriteLine("- Medium Score: {0}", mediumScore());
+            String st = String.Format("| {0} |", centeredString($"{ordinalNumber}", 14))
+          + String.Format("{0}|", centeredString($"{subjectTitle}", 15))
+          + String.Format("{0}|", centeredString($"{theoreticalScore}", 19))
+          + String.Format("{0}|", centeredString($"{practiceScore}", 16))
+          + String.Format("{0}|", centeredString($"{mediumScore()}", 14));
+
+            Console.WriteLine(st);
         }
+
+        static string centeredString(string s, int width)
+        {
+            if (s.Length >= width)
+            {
+                return s;
+            }
+
+            int leftPadding = (width - s.Length) / 2;
+            int rightPadding = width - s.Length - leftPadding;
+
+            return new string(' ', leftPadding) + s + new string(' ', rightPadding);
+        }// ham cach deu
     }
 }
