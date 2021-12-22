@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CE97A227-1223-46C9-BBDC-3E8BA0C9DD1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab7_Cau4/Account.cs">
+    <Files>
+      <File FileName="Lab7_Cau4/Program.cs" Line="36" Column="32" />
+      <File FileName="Lab7_Cau4/Account.cs" Line="38" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab7_Cau4" expanded="True">
+            <Node name="Lab7_Cau4" expanded="True">
+              <Node name="Account.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Lab7__Cau4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
