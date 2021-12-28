@@ -11,6 +11,8 @@ namespace Lab9_Cau4
             Student student1 = new Student("Nguyen Van B", 01234568, 19, 8);
 
             ArrayList studentList = new ArrayList();
+            studentList.Add(student);
+            studentList.Add(student1);
 
             int temp;
 
@@ -34,9 +36,9 @@ namespace Lab9_Cau4
                         student1.information();
                         break;
                     case 3:
-                        foreach (Student student2 in studentList)
+                        foreach (Student newstudent in studentList)
                         {
-                            student2.information();
+                            newstudent.information();
                             Console.WriteLine();
                         }
                         break;
@@ -69,6 +71,7 @@ namespace Lab9_Cau4
                         string name1 = Console.ReadLine();
                         Console.WriteLine();
                         Student obj1 = null;
+                        double obj2 = 0;
 
                         foreach (Student nameCheck in studentList)
                         {
@@ -82,18 +85,17 @@ namespace Lab9_Cau4
                         {
                             Console.Write("Nhap diem muon sua: ");
                             double newMark = float.Parse(Console.ReadLine());
-
+                            //
                             foreach (Student newMARK in studentList)
                             {
-                                if (newMark == newMARK.getMark())
+                                if (newMark != newMARK.getMark())
                                 {
-                                    obj1 = newMARK;
+                                    obj2 = newMark;
                                 }
-                            }
-
-                            if (obj1 != null)
-                            {
-                                obj1.setMark(newMark);
+                                if (obj2 != 0)
+                                {
+                                    obj1.setMark(obj2);
+                                }
                             }
                         }
                         else
@@ -128,41 +130,47 @@ namespace Lab9_Cau4
                         }
                         break;
                     case 9:
-                        int temp2 = 0;
-
-                        for (int i = student.getName().Length - 1; i >= 0; i--)
+                        if (student.getMark() == student1.getMark())
                         {
-                            if (student.getName()[i] == 32)
+                            int temp2 = 0;
+
+                            for (int i = student.getName().Length - 1; i >= 0; i--)
                             {
-                                temp = i;
-                                break;
+                                if (student.getName()[i] == 32)
+                                {
+                                    temp = i;
+                                    break;
+                                }
                             }
-                        }
 
-                        string strg = student.getName().Substring(temp + 1);
+                            string strg = student.getName().Substring(temp + 1);
 
-                        int temp1 = 0;
+                            int temp1 = 0;
 
-                        for (int i = student1.getName().Length - 1; i >= 0; i--)
-                        {
-                            if (student1.getName()[i] == 32)
+                            for (int i = student1.getName().Length - 1; i >= 0; i--)
                             {
-                                temp1 = i;
-                                break;
+                                if (student1.getName()[i] == 32)
+                                {
+                                    temp1 = i;
+                                    break;
+                                }
                             }
-                        }
 
-                        string strg1 = student1.getName().Substring(temp1 + 1);
+                            string strg1 = student1.getName().Substring(temp1 + 1);
 
-                        if (((int)strg[0] < (int)strg1[0]))
+                            if (((int)strg[0] < (int)strg1[0]))
+                            {
+                                Console.WriteLine(student.getName());
+                                Console.WriteLine(student1.getName());
+                            }
+                            else
+                            {
+                                Console.WriteLine(student1.getName());
+                                Console.WriteLine(student.getName());
+                            }
+                        } else
                         {
-                            Console.WriteLine(student.getName());
-                            Console.WriteLine(student1.getName());
-                        }
-                        else
-                        {
-                            Console.WriteLine(student1.getName());
-                            Console.WriteLine(student.getName());
+                            Console.WriteLine("Diem khong bang nhau");
                         }
                         break;
                     case 0:
