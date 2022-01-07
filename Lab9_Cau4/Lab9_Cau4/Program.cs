@@ -67,7 +67,7 @@ namespace Lab9_Cau4
 
                         break;
                     case 5:
-                        Console.Write("Nhap ten Sv muon tim: ");
+                        Console.Write("Nhap ten Sv muon sua diem: ");
                         string name1 = Console.ReadLine();
                         Console.WriteLine();
                         Student obj1 = null;
