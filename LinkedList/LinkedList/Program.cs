@@ -12,6 +12,9 @@ namespace LinkedList
             insertHead(2);
             insertHead(3);
             insertTail(9);
+            //removeHead();
+            //removeTail();
+            remove(6);
             print();
         }
 
@@ -60,9 +63,44 @@ namespace LinkedList
                 {
                     temp = temp.next;
                 }
-
                 temp.next = node;
             }
+        }
+
+        static void removeHead()
+        {
+            if (head != null)
+            {
+                head = head.next;
+            }
+        }
+
+        static void removeTail()
+        {
+            Node p = head;
+            while (p.next.next != null)
+            {
+                p = p.next;
+            }
+            p.next = p.next.next;
+        }
+
+        static void remove(int n)
+        {
+            Node p = head;
+            if (head.data == n) {
+                removeHead();
+                return;
+            }
+
+            Node q = head;
+            while (q.data != n)
+            {
+                p = q;
+                q = q.next;
+            }
+            p.next = q.next;
+            q.next = null;
         }
     }
 }
