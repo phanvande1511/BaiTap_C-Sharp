@@ -14,7 +14,7 @@ namespace LinkedList
             insertTail(9);
             //removeHead();
             //removeTail();
-            remove(6);
+            remove(1);
             print();
         }
 
@@ -88,11 +88,6 @@ namespace LinkedList
         static void remove(int n)
         {
             Node p = head;
-            if (head.data == n) {
-                removeHead();
-                return;
-            }
-
             Node q = head;
             while (q.data != n)
             {
@@ -100,7 +95,7 @@ namespace LinkedList
                 q = q.next;
             }
             p.next = q.next;
-            q.next = null;
+            q.next.next = null;
         }
     }
 }
